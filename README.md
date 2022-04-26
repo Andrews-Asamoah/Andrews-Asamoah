@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrews-Asamoah
-- 👀 I’m interested in developing mobile apps
+- 👀 I’m interested in developing mobile apps with flutter and creating websites
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on real word problems using pyton
 - 📫 How to reach me [kasamoah715@gmal.com]
