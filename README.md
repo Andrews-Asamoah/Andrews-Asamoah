@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrews-Asamoah
-- 👀 I’m interested in developing mobile apps with flutter and creating websites
+- 👀 I’m a Certified Ethical Hacker, interested in developing mobile apps and creating websites
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on real word problems using pyton
+- 💞️ I’m looking to collaborate on real word problems using python
 - 📫 How to reach me [kasamoah715@gmal.com]
 
 <!---
